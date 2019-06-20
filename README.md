@@ -1,5 +1,7 @@
 # node-XMLHttpRequest #
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/xmlhttprequest2.svg)](https://greenkeeper.io/)
+
 node-XMLHttpRequest is a wrapper for the built-in http client to emulate the
 browser XMLHttpRequest object.
 
